@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeremyDMoses
-- 👀 I’m interested in Data Analytics, Data Engineering and System Protocols
-- 🌱 I have advanced skills in SQL, Python, Tableau and in Statistical Analysis
+- 👀 I’m interested in applying Data Science to answer 
+- 🌱 Tools that I use frequently include SQL, Python, R and Tableau
 
 <!---
 JeremyDMoses/JeremyDMoses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
