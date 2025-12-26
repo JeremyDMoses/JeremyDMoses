@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeremyDMoses
-- 👀 I’m interested in applying Data Science to answer the most interesting questions I can find
+- 👀 I’m interested in applying Data Science to answer interesting questions
 - 🌱 Tools that I use frequently include SQL, Python, R and Tableau
 
 <!---
