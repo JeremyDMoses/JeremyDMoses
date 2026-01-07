@@ -1,4 +1,4 @@
-I am a Data Scientist passionate about leveraging data to answer complex questions and uncover hidden patterns. I specialize in turning raw data into actionable insights through statistical modeling and visualization.
+I am an experienced Data Analyst passionate about leveraging data to answer complex questions and uncover hidden patterns. I specialize in turning raw data into actionable insights through statistical modeling and visualization.
 
 🛠️ Tech Stack
 Languages: Python, R, SQL
